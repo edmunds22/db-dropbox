@@ -8,7 +8,7 @@ Works well as a cron job for a nightly offsite backup. Ofcourse you'd never use 
 checkout the repo
 composer install
 cp schemas-example.yaml schemas.yaml
-add your mysql database(s) and dropbox key
+add your mysql database(s) and dropbox key to schemas.yaml
 php index.php
 ```
 
