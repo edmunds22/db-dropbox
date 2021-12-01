@@ -4,74 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6b6419386c587cf318d6d2fcc0696649",
+    "content-hash": "fb45e280d0bd54c402dbf4b2b5ee2f02",
     "packages": [
-        {
-            "name": "dropbox-php/dropbox-php",
-            "version": "1.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Dropbox-PHP/dropbox-php.git",
-                "reference": "81977a8b021dd5a32b34d84721712f1284029667"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Dropbox-PHP/dropbox-php/zipball/81977a8b021dd5a32b34d84721712f1284029667",
-                "reference": "81977a8b021dd5a32b34d84721712f1284029667",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.0"
-            },
-            "suggest": {
-                "http_oauth": ">=1.1.18",
-                "oauth": "*"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "Dropbox": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Evert Pot",
-                    "email": "evert@rooftopsolutions.nl",
-                    "homepage": "http://www.rooftopsolutions.nl/",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Joe Constant",
-                    "email": "lazyguru@jofee.com",
-                    "homepage": "http://www.joeconstant.me/",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Evan Kaufman",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Naoki Sawada",
-                    "role": "Developer"
-                }
-            ],
-            "description": "Dropbox PHP library",
-            "homepage": "http://dropbox-php.com/",
-            "keywords": [
-                "dropbox"
-            ],
-            "support": {
-                "email": "dropbox-php@googlegroups.com",
-                "issues": "https://github.com/Dropbox-PHP/dropbox-php/issues",
-                "source": "https://github.com/Dropbox-PHP/dropbox-php/tree/1.0.0"
-            },
-            "abandoned": true,
-            "time": "2012-09-10T06:07:54+00:00"
-        },
         {
             "name": "graham-campbell/guzzle-factory",
             "version": "v5.0.3",

@@ -9,7 +9,6 @@
     ],
     "require": {
         "ifsnop/mysqldump-php": "^2.9",
-        "dropbox-php/dropbox-php": "1.*",
         "spatie/dropbox-api": "^1.19",
         "symfony/yaml": "^5.4"
     }
