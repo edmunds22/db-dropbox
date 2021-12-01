@@ -1,0 +1,12 @@
+connections:
+    0:
+        host: '127.0.0.1'        
+        dbname: dbname
+        username: dbusername
+        password: dbpassword
+    1:        
+        host: '127.0.0.1'
+        dbname: dbname
+        username: dbusername
+        password: dbpassword
+dropbox-key: ''

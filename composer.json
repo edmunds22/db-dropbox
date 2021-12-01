@@ -1,0 +1,16 @@
+{
+    "name": "edmunds22/db-dropbox",
+    "description": "Dump a mysql db, compress it, upload to dropbox",
+    "authors": [
+        {
+            "name": "WP Edmunds",
+            "email": "will@wpedmunds.uk"
+        }
+    ],
+    "require": {
+        "ifsnop/mysqldump-php": "^2.9",
+        "dropbox-php/dropbox-php": "1.*",
+        "spatie/dropbox-api": "^1.19",
+        "symfony/yaml": "^5.4"
+    }
+}

@@ -1,0 +1,4 @@
+dumps/*
+vendor/*
+cron.log
+schemas.yaml
